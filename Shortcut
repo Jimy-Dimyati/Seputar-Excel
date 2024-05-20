@@ -1,0 +1,86 @@
+
+|                 File                 |
+|--------------------------------------|
+| Create New Workbook      | Ctrl + N  |
+| Open Workbook            | Ctrl + O  |
+| Save Workbook            | Ctrl + S  |
+| Save As                  | F12       |
+| Print File               | Ctrl + P  |
+| Open Print Preview Window| Ctrl + F2 |
+| Close Current Workbook   | Ctrl + W  |
+| Close Excel              | Alt + F4  |
+
+
+|                   Ribbon                     |
+|----------------------------------------------|
+| Expand or Collapse               | Ctrl + F1 |
+| Activate Access Keys             | Alt       |
+| Move to next ribbon control      | Tab       |
+| Activate or Open Selected Control| Space     |
+| Confirm Control Change           | Enter     |
+| Get Help on Selected Control     | F1        |
+
+
+|                             General                            |
+|----------------------------------------------------------------|
+| Open Options                               | Alt + F + T       |
+| Open Help                                  | F1                |
+| Undo Last Action                           | Ctrl + Z          |
+| Redo Last Action                           | Ctrl + Y          |
+| Copy Selected Cells                        | Ctrl + C          |
+| Repeat Last Action                         | F4                |
+| Cut Selected Cells                         | Ctrl + X          |
+| Paste Content from Clipboard               | Ctrl + V          |
+| Paste Values                               | Ctrl + Shift + V  |
+| Display the Paste Special Dialog Box       | Ctrl + Alt + V    |
+| Display Find and Replace                   | Ctrl + F          |
+| Display Find and Replace, Replace Selected | Ctrl + H          |
+| Find Next Match                            | Shift + F4        |
+| Find Previous Match                        | Ctrl + Shift + F4 |
+| Create Embedded Chart                      | Alt + F1          |
+| Create Chart in New Worksheet              | F11               |
+
+
+|             Tables and Filters             |
+|--------------------------------------------|
+| Insert Table           | Ctrl + T          |
+| Toggle Autofilter      | Ctrl + Shift + L  |
+| Activate Filter        | Alt + ↓           |
+| Select Table Row       | Shift + Space     |
+| Select Table Column    | Ctrl + Space      |
+| Select Table           | Ctrl + A          |
+| Clear Slicer Filter    | Ctrl + C          |
+| Toggle Table Total Row | Ctrl + Shift + T  |
+
+
+|                  Drag and Drop                    |
+|---------------------------------------------------|
+| Drag and Cut                | drag                |
+| Drag and Copy               | Ctrl + drag         |
+| Drag and Insert             | Shift + drag        |
+| Drag and Insert Copy        | Ctrl + Shift + drag |
+| Drag to Worksheet           | Alt + drag          |
+| Drag to Duplicate Worksheet | Ctrl + drag         |
+
+
+|                      Navigation                       |
+|-------------------------------------------------------|
+| Move One Cell Right                | →                |
+| Move One Cell Left                 | ←                |
+| Move One Cell Up                   | ↑                |
+| Move One Cell Down                 | ↓                |
+| Move One Screen Right              | Alt + PgDn       |
+| Move One Screen Left               | Alt + PgUp       |
+| Move One Screen Up                 | PgUp             |
+| Move One Screen Down               | PgDn             |
+| Move to Right Edge of Data Region  | Ctrl + →         |
+| Move to Left Edge of Data Region   | Ctrl + ←         |
+| Move to Top Edge of Data Region    | Ctrl + ↑         |
+| Move to Bottom Edge of Data Region | Ctrl + ↓         |
+| Move to Beginning of Row           | Home             |
+| Move to Last Cell in Worksheet     | Ctrl + end       |
+| Move to First Cell in Worksheet    | Ctrl + Home      |
+| Turn End Mode On                   | End              |
+| Go Back to Hyperlink               | Ctrl + G + Enter |
+
+
