@@ -1,0 +1,334 @@
+
+|                 File                 |
+|--------------------------------------|
+| Create New Workbook      | Ctrl + N  |
+| Open Workbook            | Ctrl + O  |
+| Save Workbook            | Ctrl + S  |
+| Save As                  | F12       |
+| Print File               | Ctrl + P  |
+| Open Print Preview Window| Ctrl + F2 |
+| Close Current Workbook   | Ctrl + W  |
+| Close Excel              | Alt + F4  |
+
+
+|                   Ribbon                     |
+|----------------------------------------------|
+| Expand or Collapse               | Ctrl + F1 |
+| Activate Access Keys             | Alt       |
+| Move to next ribbon control      | Tab       |
+| Activate or Open Selected Control| Space     |
+| Confirm Control Change           | Enter     |
+| Get Help on Selected Control     | F1        |
+
+
+|                             General                            |
+|----------------------------------------------------------------|
+| Open Options                               | Alt + F + T       |
+| Open Help                                  | F1                |
+| Undo Last Action                           | Ctrl + Z          |
+| Redo Last Action                           | Ctrl + Y          |
+| Copy Selected Cells                        | Ctrl + C          |
+| Repeat Last Action                         | F4                |
+| Cut Selected Cells                         | Ctrl + X          |
+| Paste Content from Clipboard               | Ctrl + V          |
+| Paste Values                               | Ctrl + Shift + V  |
+| Display the Paste Special Dialog Box       | Ctrl + Alt + V    |
+| Display Find and Replace                   | Ctrl + F          |
+| Display Find and Replace, Replace Selected | Ctrl + H          |
+| Find Next Match                            | Shift + F4        |
+| Find Previous Match                        | Ctrl + Shift + F4 |
+| Create Embedded Chart                      | Alt + F1          |
+| Create Chart in New Worksheet              | F11               |
+
+
+|             Tables and Filters             |
+|--------------------------------------------|
+| Insert Table           | Ctrl + T          |
+| Toggle Autofilter      | Ctrl + Shift + L  |
+| Activate Filter        | Alt + ↓           |
+| Select Table Row       | Shift + Space     |
+| Select Table Column    | Ctrl + Space      |
+| Select Table           | Ctrl + A          |
+| Clear Slicer Filter    | Ctrl + C          |
+| Toggle Table Total Row | Ctrl + Shift + T  |
+
+
+|                  Drag and Drop                    |
+|---------------------------------------------------|
+| Drag and Cut                | drag                |
+| Drag and Copy               | Ctrl + drag         |
+| Drag and Insert             | Shift + drag        |
+| Drag and Insert Copy        | Ctrl + Shift + drag |
+| Drag to Worksheet           | Alt + drag          |
+| Drag to Duplicate Worksheet | Ctrl + drag         |
+
+
+|                      Navigation                       |
+|-------------------------------------------------------|
+| Move One Cell Right                | →                |
+| Move One Cell Left                 | ←                |
+| Move One Cell Up                   | ↑                |
+| Move One Cell Down                 | ↓                |
+| Move One Screen Right              | Alt + PgDn       |
+| Move One Screen Left               | Alt + PgUp       |
+| Move One Screen Up                 | PgUp             |
+| Move One Screen Down               | PgDn             |
+| Move to Right Edge of Data Region  | Ctrl + →         |
+| Move to Left Edge of Data Region   | Ctrl + ←         |
+| Move to Top Edge of Data Region    | Ctrl + ↑         |
+| Move to Bottom Edge of Data Region | Ctrl + ↓         |
+| Move to Beginning of Row           | Home             |
+| Move to Last Cell in Worksheet     | Ctrl + end       |
+| Move to First Cell in Worksheet    | Ctrl + Home      |
+| Turn End Mode On                   | End              |
+| Go Back to Hyperlink               | Ctrl + G + Enter |
+
+
+|                         Selection                           |
+|-------------------------------------------------------------|
+| Select Entire Row                          | Shift + Space  |
+| Select Entire Column                       | Ctrl + Space   |
+| Select Entire Worksheet                    | Ctrl + A       |
+| Add Adjacent Cells to Selection            | Shift + Click  |
+| Add Non-Adjacent Cells to Selection        | Ctrl + Click   |
+| Move Right Between Non-Adjacent Selections | Ctrl + Alt + → |
+| Move Left Between Non-Adjacent Selections  | Ctrl + Alt + ← |
+| Toggle Add to Selection Mode               | Shift + F8     |
+| Cancer Selection                           | Esc            |
+
+
+|                        Active Cell                           |
+|--------------------------------------------------------------|
+| Select Active Cell Only                  | Shift + Backspace |
+| Show the Active Cell on Worksheet        | Ctrl + Backspace  |
+| Move Active Cell Clockwise in Selection  | Ctrl + .          |
+| Move Active Cell Down in Selection       | Enter             |
+| Move Active Cell Up in Selection         | Shift + Enter     |
+| Move Active Cell Right in a Selection    | Tab               |
+| More Active Cell Left in a Selection     | Shift + Tab       |
+
+
+|                        Extend Selection                           |
+|-------------------------------------------------------------------|
+| Extend Selection by One Cell Right          | Shift + →           |
+| Extend Selection by One Cell Left           | Shift + ←           |
+| Extend Selection by One Cell Up             | Shift + ↑           |
+| Extend Selection by One Cell Down           | Shift + ↓           |
+| Extend the Selection to the Last Cell Right | Ctrl + Shift + →    |
+| Extend the Selection to the Last Cell Left  | Ctrl + Shift + ←    |
+| Extend the Selection to the Last Cell Up    | Ctrl + Shift + ↑    |
+| Extend the Selection to the Last Cell Down  | Ctrl + Shift + ↓    |
+| Extend Selection Up One Screen              | Shift + PgUp        |
+| Extend Selection Down One Screen            | Shift + PgDn        |
+| Extend Selection Right One Screen           | Alt + Shift + PgDn  |
+| Extend Selection Left One Screen            | Alt + Shift + PgUp  |
+| Extend Selection to Start of Row            | Shift + Home        |
+| Extend Selection to First Cell in Worksheet | Ctrl + Shift + Home |
+| Extend Selection to Last Cell in Worksheet  | Ctrl + Shift + End  |
+| Toggle Extend Selection Mode                | F8                  |
+
+
+|                      Select Special                          |
+|--------------------------------------------------------------|
+| Display 'Go To' dialog box                | Ctrl + G         |
+| Select Cells with Comments                | Ctrl + Shift + O |
+| Select Current Region Around Active Cell  | Ctrl + Shift + * |
+| Select Current Region                     | Ctrl + A         |
+| Select Current Array                      | Ctrl + /         |
+| Select Row Differences                    | Ctrl + \         |
+| Select Column Differences                 | Ctrl + Shift + | |
+| Select Direct Precendents                 | Ctrl + [         |
+| Select All Precendents                    | Ctrl + Shift + { |
+| Select Direct Dependents                  | Ctrl + ]         |
+| Select All Dependents                     | Ctrl + Shift + } |
+| Select Visible Cells Only                 | Alt + ;          |
+
+
+|                      Cell Edit Mode                        |
+|------------------------------------------------------------|
+| Edit the Active Cell                    | F2               |
+| Cancel Entry                            | Esc              |
+| Select One Character Right              | Shift + →        |
+| Select One Character Left               | Shift + ←        |
+| Move One Word Right                     | Ctrl + →         |
+| Move One Word Left                      | Ctrl + ←         |
+| Select One Word Right                   | Ctrl + Shift + → |
+| Select One Word Left                    | Ctrl + Shift + ← |
+| Select to Beginning of Cell             | Shift + Home     |
+| Select to End of Cell                   | Shift + End      |
+| Delete to End of Line                   | Ctrl + Delete    |
+| Delete Character to the Left of Cursor  | Backspace        |
+| Delete Character to the Right of Cursor | Delete           |
+| Insert Line Break in Cell               | Alt + Enter      |
+
+
+|                     Entering Data                       |
+|---------------------------------------------------------|
+| Enter And Move Down                  | Enter            |
+| Enter and Move Up                    | Shift + Enter    |
+| Enter and Move Right                 | Tab              |
+| Enter and Move Left                  | Shift + Tab      |
+| Complete Entry and Stay in Same Cell | Ctrl + Enter     |
+| Enter Same Data in Multiple Cells    | Ctrl + Enter     |
+| Insert Current Date                  | Ctrl + ;         |
+| Insert Current Time                  | Ctrl + Shift + : |
+| Fill Down from Cell Above            | Ctrl + D         |
+| Fill Right from Cell Left            | Ctrl + R         |
+| Copy Formula from Cell Above         | Ctrl + '         |
+| Copy Value from Cell Above           | Ctrl + Shift + " |
+| Add Hyperlink                        | Ctrl + K         |
+| Display AutoComplete List            | Alt + ↓          |
+| Flash Fill                           | Ctrl + E         |
+
+
+|                          Formatting                            |
+|----------------------------------------------------------------|
+| Format (almost) Anything                    | Ctrl + 1         |
+| Display Format Cells with Font Tab Selected | Ctrl + Shift + F |
+| Toggle Bold Formatting                      | Ctrl + B         |
+| Toggle Italic Formatting                    | Ctrl + I         |
+| Toggle Underline Formatting                 | Ctrl + U         |
+| Toggle Strikethrough Formatting             | Ctrl + 5         |
+| Align Center                                | Alt + H + A + C  |
+| Align Left                                  | Alt + H + A + L  |
+| Align Right                                 | Alt + H + A + R  |
+| Indent                                      | Alt + H + 6      |
+| Remove Indent                               | Alt + H + 5      |
+| Increase Font Size One Step                 | Alt + H + FG     |
+| Decrease Font Size One Step                 | Alt + H + FK     |
+
+
+|              Number Formatting             |
+|--------------------------------------------|
+| Apply General Format    | Ctrl + Shift + ~ |
+| Apply Currency Format   | Ctrl + Shift + $ |
+| Apply Percentage Format | Ctrl + Shift + % |
+| Apply Scientific Format | Ctrl + Shift + ^ |
+| Apply Date Format       | Ctrl + Shift + # |
+| Apply Time Format       | Ctrl + Shift + @ |
+| Apply Number Format     | Ctrl + Shift + ! |
+
+
+|                          Borders                            |
+|-------------------------------------------------------------|
+| Add Border Outline                       | Ctrl + Shift + & |
+| Add or Remove Border Right               | Alt + R          |
+| Add or Remove Border Left                | Alt + L          |
+| Add or Remove Border Top                 | Alt + T          |
+| Add or Remove Border Bottom              | Alt + B          |
+| Add or Remove Border Upward Diagonal     | Alt + D          |
+| Add or Remove Border Horizontal Interior | Alt + H          |
+| Add or Remove Border Vertical Interior   | Alt + V          |
+| Remove Borders                           | Ctrl + Shift + _ |
+
+
+|                            Formulas                            |
+|----------------------------------------------------------------|
+| Toggle Absolute and Relative References | F4                   |
+| Open the Insert Function Dialog Box     | Shift + F3           |
+| Autosum Selected Cells                  | Alt + =              |
+| Toggle Formulas On and Off              | Ctrl + '             |
+| Insert Function Arguments               | Ctrl + Shift + A     |
+| Enter Array Formula                     | Ctrl + Shift + Enter |
+| Calculate Worksheets                    | F9                   |
+| Calculate Active Worksheet              | Shift + F9           |
+| Force Calculate All Worksheets          | Ctrl + Alt + F9      |
+| Evaluate Part of a Formula              | F9                   |
+| Expand or Collapse the Formula Bar      | Ctrl + Shift + U     |
+| Display Function Arguments Dialog Box   | Ctrl + A             |
+| Open the Name Manager                   | Ctrl + F3            |
+| Define Name Using Row and Column Labels | Ctrl + Shift + F3    |
+| Select Name Box                         | Alt + F3             |
+| Paste Name Into Formula                 | F3                   |
+| Accept Function with Autocomplete       | Tab                  |
+
+
+|                     Grid Operations                   |
+|-------------------------------------------------------|
+| Display Insert Dialog Box         | Ctrl + Shift + +  |
+| Insert Rows                       | Ctrl + Shift + +  |
+| Insert Columns                    | Ctrl + Shift + +  |
+| Display Delete Dialog Box         | Ctrl + -          |
+| Delete Rows                       | Ctrl + -          |
+| Delete Column                     | Ctrl + -          |
+| Delete Cells                      | Ctrl + -          |
+| Delete Contents of Selected Cells | Delete            |
+| Hide Columns                      | Ctrl + 0          | 
+| Hide Rows                         | Ctrl + 9          |
+| Unhide Rows                       | Ctrl + Shift + 9  |
+| Unhide Columns                    | Ctrl + Shift + 0  |
+| Group Rows or Columns             | Alt + Shift + -   |
+| Ungroup Rows or Columns           | Alt + Shift + ←   |
+| Open Group Dialog Box             | Alt + Shift + →   |
+| Open Ungroup Dialog Box           | Alt + Shift + ←   |
+| Hide or Show Outline Symbols      | Ctrl + 8          |
+| Zoom In                           | Ctrl + Alt + +    |
+| Zoom Out                          | Ctrl + Alt + -    |
+| Zoom Scroll                       | Ctrl + Scroll     |
+
+
+|                      Pivot Tables                        |
+|----------------------------------------------------------|
+| Select Entire Pivot Table             | Ctrl + A         |
+| Toggle Pivot Table Field Checkbox     | Space            |
+| Group Pivot Table Items               | Alt + Shift + →  |
+| Ungroup Pivot Table Items             | Alt + Shift + ←  |
+| Hide Pivot Table Item                 | Ctrl + -         |
+| Create Pivot Chart on Same Worksheet  | Alt + F1         |
+| Create Pivot Chart on New Worksheet   | F11              |
+| Open Pivot Table Wizard               | Alt + D + P      |
+
+
+|                         Workbook                        |
+|---------------------------------------------------------|
+| Insert New Worksheet              | Shift + F11         |
+| Go to Next Worksheet              | Ctrl + PgDn         |
+| Go to Previous Worksheet          | Ctrl + PgUp         |
+| Move to Next Pane                 | F6                  |
+| Move to Previous Pane             | Shift + F6          |
+| Go to Next Workbook               | Ctrl + Tab          |
+| Go to Previous Workbook           | Ctrl + Shift + Tab  |
+| Minimize Current Workbook Window  | Ctrl + F9           |
+| Maximize Current Workbook Window  | Ctrl + F10          |
+| Select Adjacent Worksheets        | Shift + Click       |
+| Select Non-Adjacent Worksheets    | Ctrl + Click        |
+| Toggle Scroll Lock                | ScrLk               |
+| Toggle Full Screen                | Ctrl + Shift + F1   |
+
+
+|                    Dialog Boxes                       |
+|-------------------------------------------------------|
+| Move to Next Control             | Tab                |
+| Move to Previous Control         | Shift + Tab        |
+| Move to Next Tab                 | Ctrl + Tab         |
+| Move to Previous Tab             | Ctrl + Shift + Tab |
+| Accept and Apply                 | Enter              |
+| Check and Uncheck Box            | Space              |
+| Cancel and Close the Dialog Box  | Esc                |
+
+
+|                            Other                           |
+|------------------------------------------------------------|
+| Check Spelling                        | F7                 |
+| Open Thesaurus Dialog Box             | Shift + F7         |
+| Open Macro Dialog Box                 | Alt + F8           |
+| Open VBA Editor                       | Alt + F11          |
+| Open Power Query Editor               | Alt + F12          |
+| Duplicate Object                      | Ctrl + D           |
+| Snap to Grid                          | Alt                |
+| Hide or Show Objects                  | Ctrl + 6           |
+| Display Modify Cell Style Dialog Box  | Alt + '            |
+| Display Right-Click Menu              | Shift + F10        |
+| Insert or Edit Note                   | Shift + F2         |
+| Insert Threaded Comment               | Ctrl + Shift + F2  |
+| Delete Comment                        | Shift + F10 + D    |
+| Display Control Menu                  | Alt + Space        |
+
+
+
+
+
+
+
+
+
